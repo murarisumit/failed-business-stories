@@ -2,7 +2,7 @@ Here i would put stories where I learn from othe stories, i understood lot of th
 
 ---
 
-#### [Why my old business failed, how to not be a stupid failure like Louis Rossmann](https://www.youtube.com/watch?v=w3c2dOw6Frg)
+### [Why my old business failed, how to not be a stupid failure like Louis Rossmann](https://www.youtube.com/watch?v=w3c2dOw6Frg)
 
 (Got from youtube comment):
 Just a rough outline. I missed a few smaller points, but I feel like this covers the general topics in the video.
