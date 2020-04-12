@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: Failed business stories
 github:
-  is_project_page: false
+  is_project_page: true
